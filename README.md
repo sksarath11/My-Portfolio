@@ -17,14 +17,16 @@ This portfolio is designed to:
 
 The portfolio is responsive, performance-optimized, and aligned with modern web development standards.
 
----
+
+
 
 ## 🌐 Live Demo
 
 You can view the live version of my portfolio here:  
 🔗 https://my-portfolio-nu-lemon.vercel.app
 
----
+
+
 
 1 🧰 Technologies Used
 
@@ -39,7 +41,8 @@ This project is built using the following technologies:
 
 > No frameworks or build tools (e.g., React, Webpack) are required. The project runs natively in the browser.
 
----
+
+
 
 ## 🛠️ How to Run the Project Locally
 
@@ -56,6 +59,8 @@ To run this project on your local machine:
 You can open it directly by double-clicking, or Use a local server:
 
 
+
+
 📁 Project Structure
 
 portfolio/
@@ -70,6 +75,8 @@ portfolio/
 └── README.md            
 
 
+
+
 🧑‍💻 About Me
 
 I'm Sarathkumar, a passionate Web Developer based in Sri Lanka with a background in WordPress development, UI/UX design, and digital marketing. I create engaging web experiences that blend performance, aesthetics, and usability.
@@ -77,7 +84,10 @@ I'm Sarathkumar, a passionate Web Developer based in Sri Lanka with a background
 🎓 Degree: BSc (Hons) in Networking and Mobile Computing, Horizon Campus
 
 
+
 🧩 Skills
+
+
 
 
 🌐 1. Front-End Development
@@ -86,6 +96,8 @@ I'm Sarathkumar, a passionate Web Developer based in Sri Lanka with a background
 HTML5, CSS, JavaScript - Responsive Design – Mobile-first, media queries
 
 Front-End Frameworks - React.js, Vue.js, CSS Frameworks, Bootstrap, Tailwind CSS, Version Control – Git, GitHub
+
+
 
 
 
@@ -99,9 +111,13 @@ Databases - MySQL, MongoDB
 API Development - RESTful APIs
 
 
+
+
 📷 Portfolio Preview
 
 
+
+![Screenshot 2025-05-23 093848](https://github.com/user-attachments/assets/2f9f2020-e038-4a20-ba3a-ead5ec4afb0e)
 
 📄 License
 This project is licensed under the MIT License. You may use, modify, or distribute the code with attribution.
