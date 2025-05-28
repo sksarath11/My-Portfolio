@@ -31,14 +31,16 @@ You can view the live version of my portfolio here:
 1 🧰 Technologies Used
 
 This project is built using the following technologies:
+ ------------------------------------------------------
+| Technology    | Purpose                              |
+|---------------|--------------------------------------|
+| HTML5         | Page structure and semantic markup   |
+| CSS3          | Styling, layout, responsiveness      |
+| JavaScript    | Dynamic behavior and interactivity   |
+| Bootstrap 5   | Responsive design and UI components  |
+ -----------------------------------------------------
 
-| Technology    | Purpose                          |
-|---------------|----------------------------------|
-| **HTML5**     | Page structure and semantic markup |
-| **CSS3**      | Styling, layout, responsiveness   |
-| **JavaScript**| Dynamic behavior and interactivity |
-| **Bootstrap 5** | Responsive design and UI components |
-
+ 
 > No frameworks or build tools (e.g., React, Webpack) are required. The project runs natively in the browser.
 
 
@@ -95,20 +97,11 @@ I'm Sarathkumar, a passionate Web Developer based in Sri Lanka with a background
 
 HTML5, CSS, JavaScript - Responsive Design – Mobile-first, media queries
 
-Front-End Frameworks - React.js, Vue.js, CSS Frameworks, Bootstrap, Tailwind CSS, Version Control – Git, GitHub
+
+Frameworks - CSS Frameworks, Bootstrap, SCSS, Version Control – Git, GitHub
 
 
 
-
-
-🖥️ 2. Back-End Development
-
-
-Programming Languages - PHP, Node.js, .NET
-
-Databases - MySQL, MongoDB
-
-API Development - RESTful APIs
 
 
 
